@@ -1,3 +1,3 @@
-testa
-i qlq cuzao
-TESTANTO O LINUX
+Teste
+Sair
+Soft
